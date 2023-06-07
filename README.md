@@ -59,7 +59,7 @@ The process of image generation remained the same as in Prompt 1, with the colla
 ![Image](35.jpg)
 ![Image](36.jpg)
 ![Image](37.jpg)
-![Image]("BING 1 Prompt truncated.png")
+![Image]("BING 1 Prompt truncated.jpg")
 ![Image](BING 2 Prompt truncated.png)
 ![Image](BING 3 Prompt truncated.png)
 ![Image](BING 4 Prompt truncated.png)
