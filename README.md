@@ -62,5 +62,5 @@ The process of image generation remained the same as in Prompt 1, with the colla
 ![Image](BING1.jpg)
 ![Image](BING2.jpg)
 ![Image](BING3.jpg)
-![Image](BING4.png)
+![Image](BING4.jpg)
 ![Image](BING4_extendended_Dall-E.png)
